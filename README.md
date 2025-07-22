@@ -1,3 +1,2 @@
 # qwrewqrasd
-Project repository for qwrewqrasd
-asdasd
+done to main
