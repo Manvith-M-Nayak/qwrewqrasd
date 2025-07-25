@@ -1,2 +1,1 @@
-print("FBB")
-print("hhhh")
+print("going homeeeee")
